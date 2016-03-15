@@ -1,3 +1,6 @@
 [submodule "frame/mRichBackplane"]
 	path = frame/mRichBackplane
 	url = https://github.com/Sawaiz/mRichBackplane.git
+[submodule "mRichBackplane"]
+	path = mRichBackplane
+	url = https://github.com/Sawaiz/mRichBackplane.git
