@@ -1,0 +1,3 @@
+[submodule "dependency/modularRICHBackplane"]
+	path = dependency/modularRICHBackplane
+	url = git@github.com:Sawaiz/modularRICHBackplane.git
